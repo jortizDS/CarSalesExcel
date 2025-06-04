@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is an interactive Excel dashboard built to explore and analyze 2014 vehicle sales data. It provides quick insights into sales performance by make, mileage, and year. This project demonstrates how Excel can be used to turn raw sales data into a clear, actionable dashboard with no code required.
+This project is an Excel dashboard built to explore and analyze 2014 vehicle sales data. It provides quick insights into sales performance by make, mileage, and year. This project demonstrates how Excel can be used to turn raw sales data into a clear, actionable dashboard with no code required.
 
 ---
 
@@ -10,7 +10,7 @@ This project is an interactive Excel dashboard built to explore and analyze 2014
 
 The goal of this project is to:
 
-- Provide a clean, interactive dashboard to explore 2014 vehicle sales data.
+- Provide a clean dashboard to explore 2014 vehicle sales data.
 
 - Summarize key metrics such as top-selling vehicle makes, mileage categories, and monthly sales.
 
@@ -33,5 +33,5 @@ The goal of this project is to:
 
 ## Dashboard
 
-View the Excel dashboard with interactive visuals [here]()
+View the Excel dashboard [here]()
 
