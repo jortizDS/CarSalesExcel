@@ -18,17 +18,21 @@ The goal of this project is to:
 
 ---
 
-## 📂 Data Source
+## Data Source
 
 - [Vehicle Sales Data – Kaggle](https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data/data)
 
 ---
 
-## 📁 Tools Used
+## Tools Used
 
 - Microsoft Excel
 - PivotTables & PivotCharts
 - Slicers & Conditional Formatting
 
----
+--- 
+
+## Dashboard
+
+View the Excel dashboard with interactive visuals [here]()
 
