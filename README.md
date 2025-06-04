@@ -19,8 +19,7 @@ The goal of this project is to:
 ---
 
 ## Data Source
-
-- [Vehicle Sales Data – Kaggle](https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data/data)
+-  This project utilizes 2014 vehicle sales data sourced from [Kaggle](https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data/data)
 
 ---
 
