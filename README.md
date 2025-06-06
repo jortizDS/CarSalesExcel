@@ -33,6 +33,8 @@ The goal of this project is to:
 
 ## Dashboard
 
-View the Excel dashboard [here]()
+View the Excel dashboard [here](dashboard_car_sales_2015.xlsx)
+
+
 ![](ExcelDashboard.JPG)
 
